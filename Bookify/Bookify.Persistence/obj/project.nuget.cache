@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dllq0GMoklQ=",
+  "dgSpecHash": "2ET3Z5L7C9+YWd1e+YfE6tICV2y10Lo9Zv10X2wNPzIqMEhbjh/GuKz6hj/Pn1T6jyd58gKFV/CQ304eL3ZGYw==",
   "success": true,
   "projectFilePath": "D:\\Bookify\\Bookify\\Bookify.Persistence\\Bookify.Persistence.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://internal-hub.sattec.ir/repository/nuget-group/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

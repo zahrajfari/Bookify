@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/ls6PaIimvs=",
+  "dgSpecHash": "qLB77CaOztz9sYFWeqh/utpNlcygaGfd4CqPSxj0qWsvKuGq8FVYP9+cmYc6RoBq4AV4wJkoryfYjsAWWbrYtw==",
   "success": true,
   "projectFilePath": "D:\\Bookify\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://internal-hub.sattec.ir/repository/nuget-group/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\mcf\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\mcf\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mcf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
 }
